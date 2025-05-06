@@ -1,4 +1,6 @@
 KZ AI Constitution
+
+
 The KZ AI Constitution project is aimed at building an AI-powered system that can handle tasks related to the analysis, generation, and decision-making based on constitutional documents and legal texts. This project integrates advanced machine learning models, document processing, and natural language understanding techniques to help users navigate and query legal documents effectively.
 Technologies Used
 •	Python: The main programming language.
